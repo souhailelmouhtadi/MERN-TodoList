@@ -1,0 +1,36 @@
+.todoapp{
+    width: 400px;
+    margin: 20px auto;
+
+}
+
+.form-group{
+
+    width: 100% !important;
+}
+
+.form-group input{
+    color: red;
+    margin-right: 10px;
+    width: 77% !important;
+}
+
+.form-group button{
+
+    width: 20% !important;
+}
+
+.list-group{
+    vertical-align: middle;
+    margin-top: 10px;
+}
+
+.list-group-item button{
+    float: right;
+}
+
+.list-group-item span{
+
+    display: block;
+    float: left;
+}
