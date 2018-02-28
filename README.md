@@ -1,6 +1,6 @@
 # MERN-TodoList
 MERN (MongoDB, Express, ReactJS ans NodeJS) app TodoList
 # Installation
-$ cd "MERN-TodoList/TodoList/todolist"
-$ npm install
-$ npm start
+<a>$ cd "MERN-TodoList/TodoList/todolist"</a>
+<a>$ npm install</a>
+<a>$ npm start</a>
